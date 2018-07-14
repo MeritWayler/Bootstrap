@@ -31,3 +31,13 @@ body {
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.reservation-card{
+    background-color: #FDC02F;
+    color: white; 
+}
+.reservation-button{
+    background-color: #FDC02F;
+    text-align: center;
+    padding: 10x 20px;
+}
