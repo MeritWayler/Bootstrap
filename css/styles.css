@@ -64,3 +64,12 @@ body {
     left: 0;
     min-height: 300px;
 }
+
+.cancel-button {
+    background-color: #6C757C;
+    color: white; 
+}
+
+[type='radio'] {
+    display: none; 
+    }
